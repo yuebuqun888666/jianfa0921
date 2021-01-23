@@ -8,5 +8,5 @@
 
 BBBBBBBBBBBBBBB
 AAAAAAAAAAAAAAA
-必先牺牲..l
+必先牺牲...
 
